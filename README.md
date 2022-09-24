@@ -1,3 +1,3 @@
-# Tetris
+ Tetris
 
-🎮 Tetris game developed with C++ 
+🎮 Tetris game developed with C++.
